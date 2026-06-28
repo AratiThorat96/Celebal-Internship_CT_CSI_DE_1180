@@ -14,6 +14,8 @@ This repository contains all weekly assignments completed during the Celebal Tec
 
 ## Weekly Assignments
 
-- Week 1: Data Exploration and Cleaning 
+- Week 1: Data Exploration and Cleaning
+- Week 2: SQL-Based Data Analysis Using Filtering, Aggregation, Joins & Advanced Concepts
+ 
 
 More assignments will be added in future weeks.
