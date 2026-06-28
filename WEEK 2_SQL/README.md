@@ -1,7 +1,7 @@
 
-## Week 2 Assignment – Celebal Technologies Data Engineering Internship
+# Week 2 Assignment – Celebal Technologies Data Engineering Internship
 
-# SQL-Based Data Analysis Using Filtering, Aggregation, Joins & Advanced Concepts
+## SQL-Based Data Analysis Using Filtering, Aggregation, Joins & Advanced Concepts
 
 ---
 
