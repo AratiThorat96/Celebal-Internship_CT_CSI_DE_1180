@@ -1,5 +1,15 @@
 # Celebal Internship CT_CSI_DE_1180
 
+## 👤 Intern Details
+ 
+| Field | Details |
+|---|---|
+| **Name** | Arati Thorat |
+| **Student ID** | CT_CSI_DE_1180 |
+| **Domain** | Data Engineering |
+| **College** | Sanjivani College of Engineering, Kopargaon |
+| **Batch** | Batch 1 |
+
 This repository contains all weekly assignments completed during the Celebal Technologies Data Engineering Internship Program.
 
 ## Weekly Assignments
