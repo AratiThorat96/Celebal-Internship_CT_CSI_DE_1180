@@ -387,5 +387,5 @@ All query results are documented with SSMS screenshots:
 
 ---
 
-*Submitted BY ARATI THORAT
+*Submitted BY ARATI THORAT*
 | **Submission Date** | 28 June 2026 |
