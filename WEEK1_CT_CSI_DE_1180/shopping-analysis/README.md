@@ -1,6 +1,6 @@
-# Shopping Dataset Analysis and Data Cleaning
+# Week 1 Assignment – Celebal Technologies Data Engineering Internship
 
-## Week 1 Assignment – Celebal Technologies Data Engineering Internship
+## Shopping Dataset Analysis and Data Cleaning
 
 ### Overview
 
