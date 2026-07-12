@@ -16,6 +16,8 @@ This repository contains all weekly assignments completed during the Celebal Tec
 
 - Week 1: Data Exploration and Cleaning
 - Week 2: SQL-Based Data Analysis Using Filtering, Aggregation, Joins & Advanced Concepts
+- week 3: SQL Analysis of Sales Data using Subqueries, CTEs, and Window Functions
+- week 4: Azure Cloud Fundamentals and Data Pipeline Implementation using ADF  
  
 
 More assignments will be added in future weeks.
