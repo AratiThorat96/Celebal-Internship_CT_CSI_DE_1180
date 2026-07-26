@@ -8,7 +8,6 @@
 | **Student ID** | CT_CSI_DE_1180 |
 | **Domain** | Data Engineering |
 | **College** | Sanjivani College of Engineering, Kopargaon |
-| **Batch** | Batch 1 |
 
 This repository contains all weekly assignments completed during the Celebal Technologies Data Engineering Internship Program.
 
@@ -19,6 +18,7 @@ This repository contains all weekly assignments completed during the Celebal Tec
 - week 3: SQL Analysis of Sales Data using Subqueries, CTEs, and Window Functions
 - week 4: Azure Cloud Fundamentals and Data Pipeline Implementation using ADF
 - Week 5 Assignment – Apache Spark Fundamentals using PySpark
+- Week 6 - Apache Spark (PySpark)
  
 
 More assignments will be added in future weeks.
