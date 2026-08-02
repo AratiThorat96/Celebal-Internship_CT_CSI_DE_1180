@@ -19,6 +19,7 @@ This repository contains all weekly assignments completed during the Celebal Tec
 - week 4: Azure Cloud Fundamentals and Data Pipeline Implementation using ADF
 - Week 5 Assignment – Apache Spark Fundamentals using PySpark
 - Week 6 - Apache Spark (PySpark)
+- Week 7 - Delta Lake Assignment
  
 
 More assignments will be added in future weeks.
