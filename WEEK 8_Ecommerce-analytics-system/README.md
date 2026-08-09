@@ -103,7 +103,6 @@ WEEK 8_Ecommerce-analytics-system/
 └── README.md
 ```
 
-> The exact file names inside the folders may vary slightly depending on the final implementation.
 
 ## 5. Dataset Description
 
