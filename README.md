@@ -9,7 +9,7 @@
 | **Domain** | Data Engineering |
 | **College** | Sanjivani College of Engineering, Kopargaon |
 
-This repository contains all weekly assignments completed during the Celebal Technologies Data Engineering Internship Program.
+This repository contains all weekly assignments and Project completed during the Celebal Technologies Data Engineering Internship Program.
 
 ## Weekly Assignments
 
@@ -20,6 +20,10 @@ This repository contains all weekly assignments completed during the Celebal Tec
 - Week 5 Assignment – Apache Spark Fundamentals using PySpark
 - Week 6 - Apache Spark (PySpark)
 - Week 7 - Delta Lake Assignment
- 
+- Week 8 - E-Commerce Order Analytics System
 
-More assignments will be added in future weeks.
+  ```markdown
+ 
+## 🚀 Internship Final Project
+
+### Real-Time UPI Transaction & Fraud Detection Pipeline
