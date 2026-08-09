@@ -444,7 +444,6 @@ https://dbc-b18957d0-752a.cloud.databricks.com/dashboardsv3/01f1935c5a7c10feaf67
 
 The dashboard was configured so that the published link can be used to access the dashboard according to the sharing configuration used in Databricks.
 
-> **Note:** Access to the dashboard may still depend on the Databricks workspace/sharing configuration.
 
 The same link is also stored in:
 
