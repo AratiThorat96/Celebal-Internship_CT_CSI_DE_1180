@@ -1,0 +1,26 @@
+============================================================
+                       WEEKLY REPORT                        
+              Period: 2026-01-05 to 2026-01-11              
+============================================================
+
+Total Orders:      17
+Total Revenue:     $149,362.78
+Unique Customers:  17
+
+Top 3 Products (by quantity sold):
+  1. Listen Audio                   8 units
+  2. Official Comic                 8 units
+  3. Might Bedding                  8 units
+
+------------------------------------------------------------
+              COMPARISON WITH PREVIOUS PERIOD               
+------------------------------------------------------------
+Previous Total Orders:     18
+Previous Total Revenue:    $154,029.92
+Previous Unique Customers: 18
+
+Orders change:     -5.56%
+Revenue change:    -3.03%
+Customers change:  -5.56%
+============================================================
+

@@ -1,0 +1,53 @@
+============================================================
+E-COMMERCE ANALYTICS SYSTEM - DATA VALIDATION REPORT
+============================================================
+
+--- CUSTOMERS ---
+Raw records:            609
+Cleaned records:        609
+Duplicate customers:    9
+Invalid emails found:   5
+Invalid email customer_ids: [51, 135, 323, 566, 583]
+
+--- PRODUCTS ---
+Raw records:            550
+Cleaned records:        540
+Duplicate products removed: 10
+
+--- ORDERS ---
+Raw records:            1500
+Cleaned records:        1500
+Duplicate orders removed: 0
+Missing customer_id (flagged, kept): 69
+Unparseable dates (rows dropped): 0
+Future-dated orders (flagged, kept): 27
+
+--- ORDER ITEMS ---
+Raw records:            3000
+Cleaned records:        2890
+Invalid order_id references (rows removed): 30
+Invalid product_id references (rows removed): 60
+Zero quantity rows removed: 20
+Negative quantity rows flagged as returns (kept): 102
+Invalid discount_percent values (>100 or <0), clipped and flagged: 20
+
+--- CLEANING ACTIONS PERFORMED ---
+1. Removed exact duplicate order rows.
+2. Removed duplicate product rows (same name + category).
+3. Normalized order_date from mixed formats (YYYY-MM-DD HH:MM:SS
+   and DD-MM-YYYY) into a single consistent datetime format.
+4. Flagged (not deleted) orders with missing customer_id so guest
+   orders remain available for order-level analysis.
+5. Flagged (not deleted) future-dated orders for review.
+6. Trimmed whitespace and applied Title Case to product names.
+7. Removed order_items rows with invalid order_id or product_id
+   references (true orphan/corrupt records).
+8. Removed zero-quantity order_items (no real transaction).
+9. KEPT negative-quantity rows and flagged them as returns
+   (is_return = True) rather than deleting real business data.
+10. Clipped out-of-range discount_percent values to [0, 100] and
+    flagged the affected rows (discount_valid = False).
+
+============================================================
+END OF REPORT
+============================================================

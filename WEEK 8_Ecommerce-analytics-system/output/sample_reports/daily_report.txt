@@ -1,0 +1,26 @@
+============================================================
+                        DAILY REPORT                        
+              Period: 2025-07-22 to 2025-07-22              
+============================================================
+
+Total Orders:      8
+Total Revenue:     $73,299.15
+Unique Customers:  8
+
+Top 3 Products (by quantity sold):
+  1. Field Mobile                   14 units
+  2. Doctor Men                     8 units
+  3. Very Furniture                 8 units
+
+------------------------------------------------------------
+              COMPARISON WITH PREVIOUS PERIOD               
+------------------------------------------------------------
+Previous Total Orders:     4
+Previous Total Revenue:    $28,504.44
+Previous Unique Customers: 4
+
+Orders change:     +100.0%
+Revenue change:    +157.15%
+Customers change:  +100.0%
+============================================================
+

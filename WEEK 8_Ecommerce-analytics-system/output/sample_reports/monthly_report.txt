@@ -1,0 +1,26 @@
+============================================================
+                       MONTHLY REPORT                       
+              Period: 2026-01-01 to 2026-01-31              
+============================================================
+
+Total Orders:      58
+Total Revenue:     $489,116.24
+Unique Customers:  49
+
+Top 3 Products (by quantity sold):
+  1. Us Men                         14 units
+  2. Onto Audio                     13 units
+  3. Across Non-Fiction             12 units
+
+------------------------------------------------------------
+              COMPARISON WITH PREVIOUS PERIOD               
+------------------------------------------------------------
+Previous Total Orders:     73
+Previous Total Revenue:    $666,234.52
+Previous Unique Customers: 64
+
+Orders change:     -20.55%
+Revenue change:    -26.58%
+Customers change:  -23.44%
+============================================================
+
