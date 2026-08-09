@@ -21,8 +21,6 @@ This repository contains all weekly assignments and Project completed during the
 - Week 6 - Apache Spark (PySpark)
 - Week 7 - Delta Lake Assignment
 - Week 8 - E-Commerce Order Analytics System
-
-  ```markdown
  
 ## 🚀 Internship Final Project
 
