@@ -8,6 +8,3 @@ This folder is meant to hold screenshots for the internship submission, such as:
 - A sample `python scripts/report_cli.py` run
 - Terminal output of `python scripts/test_edge_cases.py`
 
-Run the project locally following the steps in the main `README.md`, take
-screenshots of each step, and drop the image files (`.png` / `.jpg`) into
-this folder before pushing to GitHub.
