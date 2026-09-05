@@ -178,7 +178,7 @@ The final internship project focused on developing a **rule-based UPI transactio
 
 The project follows the **Medallion Architecture** to organize the data processing workflow into multiple layers:
 
-```text
+
 Data Source
     ↓
 Azure Data Factory
@@ -245,7 +245,7 @@ During the internship, I gained hands-on experience in the following areas:
 
 ## 📌 Repository Structure
 
-```text
+
 Celebal-Internship_CT_CSI_DE_1180/
 │
 ├── WEEK1_CT_CSI_DE_1180/
